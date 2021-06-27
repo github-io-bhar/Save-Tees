@@ -1,0 +1,25 @@
+body{ 
+text-align:center; 
+background-color:#CCFF90;
+}
+#firstp{
+word-spacing: 10px; 
+font-variant: small-caps; 
+text-align: center; 
+font-size: 80px; 
+} 
+#reasontext{ 
+font-size:50px; 
+}  
+#album{ 
+border-style:solid; 
+border-color:#333333;
+padding: 5px; 
+width: 450px; 
+}
+button {
+width: 100px;
+height: 50px;
+font-size: 30px;
+background-color: yellow;
+border-radius: 80px;
